@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/app/models/user.ts"],"names":[],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;IAAA;IAKA,CAAC;IAAD,WAAC;AAAD,CAAC","file":"common.js","sourcesContent":["export class User {\r\n    id:number;\r\n    username:string;\r\n    password:string;\r\n    rol:string;\r\n}"],"sourceRoot":""}
